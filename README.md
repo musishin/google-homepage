@@ -12,4 +12,4 @@ Skills developed within this project include:
 -use of lists
 -changing behavior of elements during certain events
 
-<a href="musishin.github.io/google-homepage">Live Demo</a>
+<a href="https://musishin.github.io/google-homepage/">Live Demo</a>
